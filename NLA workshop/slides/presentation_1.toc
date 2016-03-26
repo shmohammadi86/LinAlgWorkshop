@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.12pt}
+\beamer@sectionintoc {1}{Background and PDE formulation}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Diffusion Equation}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Miscellaneous Equations}{8}{0}{1}
+\beamer@sectionintoc {2}{Numerical methods for solving PDEs}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Finite Difference Method}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Finite Element Method}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Miscellaneous Numerical Methods}{20}{0}{2}
+\beamer@sectionintoc {3}{Numerical Method for solving PDEs}{27}{0}{3}
+\beamer@sectionintoc {4}{Numerical Linear Algebra}{30}{0}{4}
